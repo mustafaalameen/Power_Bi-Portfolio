@@ -2,6 +2,7 @@
 This project was made in pursuant to #NG30DAYSOFLEARNING.
 The dashboard is published in the Power Bi service - [Air crash analysis](https://app.powerbi.com/groups/me/reports/099521ef-708e-4ff1-8183-a362b490dec6/ReportSection)
 
+![dashboard](/images/Screenshot (272).png)
 
 ## Objective.
 -   The main objective of having this project is to analayze and discover patterns about airplane crashes globally since 1908-2009. From my own point of view, I see this project as being more of exploratory than other forms of mining the data. And this has made my thought process while questioning the data. The questions asked are:
